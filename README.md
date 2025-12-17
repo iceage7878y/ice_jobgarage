@@ -1,2 +1,52 @@
 # ice_jobgarage
-FiveM ESX &amp; standalone
+**FiveM – ESX & Standalone**
+
+## 📌 Description
+`ice_jobgarage` is a job-based garage system for FiveM, compatible with **ESX** and **standalone** servers.
+
+The script is **encrypted**, while **all configuration files remain fully open and editable**.  
+Encryption is used because the script was previously leaked or misused by people who were not authorized to provide support.
+
+## 🔐 Encryption Notice
+- Core files are encrypted
+- All config files are open
+- Encryption is only for protection, not to limit usage
+
+If you need support, please contact me directly.
+
+## 📞 Support
+Discord: **iceage7878y**
+
+---
+
+## 🗺️ Blips
+This resource includes **visualz_blips**  
+Blips **cannot be disabled**
+
+GitHub:  
+https://github.com/VisualzDevelopment/visualz_blips  
+
+Full credit to **VisualzDevelopment**
+
+---
+
+## 🎨 UI
+- Custom UI included
+- UI color can be changed at the **top of the style file**
+- UI made by **me**
+
+---
+
+## ✅ Features
+- ESX & Standalone support
+- Job-based garages
+- Fully editable config
+- Built-in blips
+- Custom UI with color customization
+- Encrypted core for protection
+
+---
+
+## 📜 Credits
+- **visualz_blips** by VisualzDevelopment  
+- Script & UI by **IceAge**
