@@ -50,3 +50,7 @@ Full credit to **VisualzDevelopment**
 ## 📜 Credits
 - **visualz_blips** by VisualzDevelopment  
 - Script & UI by **IceAge**
+
+## 📸 UI Previewe
+
+<img src="https://cdn.discordapp.com/attachments/1309232241028632577/1450998394284933161/image.png?ex=6944930f&is=6943418f&hm=b581f900295b139d73683511fb03abcbf522bc82a9c317af5a46194a30988a2c&" />
